@@ -29,6 +29,7 @@ void student::putDetails(void){
 	
 }
 int main(){
+	
 	student std;
 	
 	std.getDetails();
